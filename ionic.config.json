@@ -1,5 +1,7 @@
 {
-  "name": "myBlank",
-  "integrations": {},
+  "name": "IonicWiFiWizardExample",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
